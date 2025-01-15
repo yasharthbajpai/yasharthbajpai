@@ -74,14 +74,12 @@ I'm a passionate software developer with a strong focus on Python and a growing 
 
 ##
 
-## Top Repositories
-
 <div align="center">
   <a href="https://github.com/yasharthbajpai/CS50P-Sol">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasharthbajpai&repo=CS50P-Sol&theme=dracula" />
   </a>
-  <a href="https://github.com/yasharthbajpai/flipkart-scrapper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasharthbajpai&repo=flipkart-scrapper&theme=dracula" />
+  <a href="https://github.com/yasharthbajpai/flipkart-scapper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasharthbajpai&repo=flipkart-scapper&theme=dracula" />
   </a>
 </div>
 
