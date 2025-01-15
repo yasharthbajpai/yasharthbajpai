@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yasharth Bajpai
 =======================================================================================================================================
 
-Software Developer
+Software Developer ![](https://komarev.com/ghpvc/?username=yasharthbajpai&color=blueviolet&style=flat-square)
 ------------------
 
 I'm a passionate software developer with a strong focus on Python and a growing expertise in Java with Spring Boot.
@@ -10,14 +10,6 @@ I'm a passionate software developer with a strong focus on Python and a growing 
 * 🌍  I'm based in Jalandhar , Punjab
 * ✉️  You can contact me at [yasharthbajpai@outlook.in](mailto:yasharthbajpai@outlook.in)
 * ⚡  This does not change the fact that in Antarctica there are 21 million penguins and in Malta there are 502,653 inhabitants. So if the penguins decide to invade Malta, each Maltese will have to fight 42 penguins.
-##
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasharthbajpai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasharthbajpai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 
 ##
 
@@ -74,14 +66,9 @@ I'm a passionate software developer with a strong focus on Python and a growing 
 
 ##
 
-<div align="center">
-  <a href="https://github.com/yasharthbajpai/CS50P-Sol">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasharthbajpai&repo=CS50P-Sol&theme=dracula" />
-  </a>
-  <a href="https://github.com/yasharthbajpai/flipkart-scapper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasharthbajpai&repo=flipkart-scapper&theme=dracula" />
-  </a>
-</div>
+
+## Top Repositories and Most Used Languages
+
+<div align="center"> <div style="display: flex; justify-content: space-between; border-bottom: 1px solid #444; padding-bottom: 20px; margin-bottom: 20px;"> <a href="https://github.com/yasharthbajpai/flipkart-scapper"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasharthbajpai&repo=flipkart-scapper&theme=dracula" width="32%" /> </a> <a href="https://github.com/yasharthbajpai/CS50P-Sol"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasharthbajpai&repo=CS50P-Sol&theme=dracula" width="32%" /> </a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasharthbajpai&layout=compact&theme=dracula&hide_border=true" width="32%" /> </div> </div>
 
 ##
-
