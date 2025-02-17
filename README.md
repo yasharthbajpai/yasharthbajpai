@@ -72,7 +72,10 @@ I'm a passionate software developer with a strong Python focus and a growing Rea
 
 
 ## Top Repositories and Most Used Languages
-
-<div align="center"> <div style="display: flex; justify-content: space-between; border-bottom: 1px solid #444; padding-bottom: 20px; margin-bottom: 20px;"> <a href="https://github.com/yasharthbajpai/flipkart-scapper"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasharthbajpai&repo=flipkart-scapper&theme=dracula" width="32%" /> </a> <a href="https://github.com/yasharthbajpai/CS50P-Sol"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasharthbajpai&repo=CS50P-Sol&theme=dracula" width="32%" /> </a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasharthbajpai&layout=compact&theme=dracula&hide_border=true" width="32%" /> </div> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasharthbajpai&repo=flipkart-scapper&theme=dracula" width="31%" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasharthbajpai&repo=CS50P-Sol&theme=dracula" width="31%" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasharthbajpai&layout=compact&theme=dracula&hide_border=true" width="31%" height="165" />
+</div>
 
 ##
