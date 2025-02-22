@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer ![](https://komarev.com/ghpvc/?username=yasharthbajpai&color=blueviolet&style=flat-square)
 ------------------
 
-I'm a passionate software developer with a strong Python focus and a growing React Framework expertise.
+I'm a software developer with a strong Python focus and a growing React Framework expertise.
 
 * 🌍  I'm based in Jalandhar , Punjab
 * ✉️  You can contact me at [yasharthbajpai@outlook.in](mailto:yasharthbajpai@outlook.in)
