@@ -5,9 +5,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer ![](https://komarev.com/ghpvc/?username=yasharthbajpai&color=blueviolet&style=flat-square)
 ------------------
 
-I'm a software developer with a strong Python focus and a growing React Framework expertise.
+I'm a software developer with a strong Python focus and a growing Express Framework expertise.
 
-* 🌍  I'm based in Jalandhar , Punjab
+* 🌍  I'm based in Delhi, India
 * ✉️  You can contact me at [yasharthbajpai@outlook.in](mailto:yasharthbajpai@outlook.in)
 * ⚡  This does not change the fact that in Antarctica there are 21 million penguins and in Malta there are 502,653 inhabitants. So if the penguins decide to invade Malta, each Maltese will have to fight 42 penguins.
 
